@@ -68,7 +68,7 @@ class Books extends Component {
       .catch(err => console.log(err));
   }
 
-  // Render the search
+  // Render the search and results
   render() {
     return (
       <Container fluid>

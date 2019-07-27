@@ -4,9 +4,9 @@ import "./style.css";
 
 function Nav() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav className="navbar navbar-expand-lg navbar-light">
       <a className="navbar-brand logo" href="/">
-        Google Books
+        Book Search
       </a>
       <a className="navbar-brand" id="link" href="/">
         Search
